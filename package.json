@@ -1,0 +1,14 @@
+{
+    "name": "repro-depsoptimize-duplicated-modules",
+    "private": true,
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^16.18.36",
+        "rollup": "^3.25.1",
+        "vite": "^4.3.9"
+    },
+    "engines": {
+        "node": ">= 16",
+        "pnpm": ">= 8"
+    }
+}

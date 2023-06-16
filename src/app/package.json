@@ -1,0 +1,7 @@
+{
+    "name": "app",
+    "dependencies": {
+        "dep1": "link:../../external/node_modules/dep1",
+        "shared": "link:../../external/node_modules/shared"
+    }
+}
