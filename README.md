@@ -27,7 +27,7 @@ When both copies are evaluated, the module's side effect is triggered twice.
 Note that this is a simplified version of our original problem: duplicated modules cause duplicate classes and objects,
 and in our application that messes with object identities and `instanceof` checks.
 
-See also issue TODO
+See also issue https://github.com/vitejs/vite/issues/13538
 
 ## Running the reproduction
 
